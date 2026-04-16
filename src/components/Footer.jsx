@@ -15,7 +15,7 @@ const Footer = () => {
         </p>
 
         <div className="mt-6">
-          <p className="mb-3 text-sm font-medium text-gray-100">Social Links</p>
+          <p className="mb-3 text-sm font-medium text-gray-100">Social Links.</p>
 
           <div className="flex justify-center gap-3">
             <button className="rounded-full bg-white p-2 text-slate-800">
